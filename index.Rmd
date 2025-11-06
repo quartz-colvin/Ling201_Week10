@@ -601,6 +601,25 @@ knitr::include_graphics("./images/maybe.gif")
 
 **Wh-questions** have eyebrows lowered
 
+---
+
+background-image: url("./images/ipa_heart.jpg")
+background-size: 100% 100%
+background-position: center
+background-repeat: no-repeat
+
+class: center, middle
+
+## .
+
+## <span style="color: blue;">Never EVER</span>
+
+## <span style="color: green;">be frightened by</span>
+
+## <span style="color: red;">phonetics</span>
+
+## <span style="color: blue;">!!!!!</span>
+
 
 
 ---
